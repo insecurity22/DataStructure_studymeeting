@@ -3,4 +3,6 @@
 MakeNode<br>
 AddNode<br>
 DeleteNode<br>
+<br>
+PrintMiddleValue
 
