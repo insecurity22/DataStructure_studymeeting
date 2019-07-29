@@ -14,3 +14,11 @@ void Problem(Node* head) {
 	}
 	return temp1;
 }
+
+/*
+	temp1이 1개씩 가고
+	temp2가 2개씩 간다고 하자.
+
+	temp2가 먼저 도착하면
+	temp1은 중간
+*/
