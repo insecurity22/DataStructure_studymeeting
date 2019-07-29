@@ -1,6 +1,6 @@
 # in the order of time.
 
-MakeNode<Br>
-AddNode
-DeleteNode
+MakeNode<br>
+AddNode<br>
+DeleteNode<br>
 
